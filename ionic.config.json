@@ -1,0 +1,7 @@
+{
+  "name": "vue-terserahkalian",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
