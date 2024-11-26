@@ -1,7 +1,7 @@
 {
-  "name": "vue-terserahkalian",
+  "name": "crud_mhs",
   "integrations": {
     "capacitor": {}
   },
-  "type": "vue-vite"
+  "type": "angular"
 }
